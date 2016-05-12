@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_local_calendar"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/fragment_local_calendar"/>
+    <item
+        android:id="@+id/navigation_google_calendar"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/fragment_google_calendar"/>
+</menu>
